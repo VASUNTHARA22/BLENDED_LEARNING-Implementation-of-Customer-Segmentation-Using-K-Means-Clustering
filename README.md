@@ -34,8 +34,8 @@ Examine and visualize the resulting clusters to interpret patterns and relations
 ```
 /*
 Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: DAKSHA C
-RegisterNumber: 212224230048
+Developed by: VASUNTHARA SAI S
+RegisterNumber: 212224230297
 */
 import os
 os.environ["OMP_NUM_THREADS"] = "1"  # Prevent MKL memory leak warning on Windows
